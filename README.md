@@ -81,4 +81,4 @@ Git | VS Code | Heroku | jQuery | Typescript | R Studio | Excel VBA | MATLAB | F
 
 </details>
 
-📄 Check out my [Resume](https://drive.google.com/file/d/1i2DgBAiq8py8sGtjOLvAnvkHhLPZUYn2/view?usp=share_link) and [LinkedIn](https://www.linkedin.com/in/aaronweixiangli/) or send me an email at aaronlicareer@gmail.com to connect!
+📄 Check out my [Resume](https://drive.google.com/file/d/1i2DgBAiq8py8sGtjOLvAnvkHhLPZUYn2/view?usp=share_link) , [LinkedIn](https://www.linkedin.com/in/aaronweixiangli/) , and [Portfolio](https://aaronweixiangli.github.io/aaron-li-portfolio/) or send me an email at aaronlicareer@gmail.com to connect!
